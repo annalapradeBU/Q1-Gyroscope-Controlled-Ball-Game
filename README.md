@@ -16,7 +16,7 @@ This application is a physics-based maze game developed in **Kotlin** using **Je
 The goal of the game is to tilt your phone to guide the **Red Ball** past the **Dark Gray Obstacles** and reach the **Green Goal** located at the bottom right of the screen.
 
 ### Gameplay Screenshot
-![Maze Game Screenshot](Screenshot_2026-03-31_11.23.51_AM.png)
+![Maze Game Screenshot](Q1_screenshot.png)
 
 ---
 
